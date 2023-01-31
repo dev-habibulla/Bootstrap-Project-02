@@ -1,0 +1,1326 @@
+/* 
+@media (min-width:1400px){
+
+
+}
+ */
+
+
+/* Xl device */
+
+@media (min-width:1200px) and (max-width:1399.99px){
+
+
+     /* banner part css */
+     
+    .banner_left h1 {
+
+        padding-top     : 0;
+        width           : auto;
+        font-size       : 57px;
+       
+    }
+
+    #wapkiu {
+
+        padding     : 0;
+
+    }
+
+    #goals {
+
+        padding     : 0;
+
+    }
+
+    .distribution_header a {
+
+        padding     : 26px 32px;
+        margin      : 20px 0;
+
+    }
+
+    #plan {
+
+        padding: 0;
+
+    }
+
+    .plan_duration {
+     
+        padding     : 30px 0;
+
+    }
+
+    .plan_box {
+       
+        padding: 48px 30px;
+        
+    }
+
+    .build_plan_heading h2 {
+
+        padding-top     : 0;
+        padding-bottom  : 60px;
+        padding-right   : 20px;
+
+    }
+
+    #trial {
+
+        padding     : 0;
+
+    }
+
+    .input_trial input {
+
+        width       : 448px;
+       
+    }
+
+    .input_trial button {
+
+        margin-left     : 30px;
+      
+    }
+
+
+
+}
+
+
+
+/* Lg device */
+
+@media (min-width:992px) and (max-width:1199.99px){
+
+    /* banner part css */
+
+    .banner_content {
+
+        padding-top : 100px;
+
+    }
+
+    .banner_left h1 {
+
+        padding-top     : 0;
+        width           : auto;
+        font-size       : 47px;
+        line-height     : 65px;
+      
+    }
+
+    /* wapkiu part css */
+
+    #wapkiu {
+
+        padding: 10px 0;
+
+    }
+
+    /*  solition part css */
+
+    #solutions {
+
+        padding         : 70px 0;
+
+    }
+
+    .solition_heading_left h2 {
+        
+        font-size       : 49px;
+        line-height     : 130%;
+        padding-bottom  : 70px;
+
+    }
+
+    .solition_heading_right p {
+
+        margin-top      : 20px;
+        font-size       : 16px;
+        line-height     : 180%;
+        padding-left    : 20px;
+
+    }
+
+    .box_heading h3 {
+        
+       line-height      : 140%;
+       padding          : 40px 0px 2px 0px;
+       font-size        : 21px;
+
+    }
+    
+
+   /* goals css part */
+
+   #goals {
+
+	padding         : 40px 0;
+
+}
+
+    .goals_right h2 {
+    
+        font-size       : 40px;
+       
+    }
+
+    .goals_right p {
+
+        padding         : 24px 0 48px 0px;
+        
+    }
+
+    /* distribution part css*/
+
+    .distribution_header{
+
+        margin-bottom   : 20px;
+
+    }
+
+    .distribution_header a {
+
+        padding         : 15px 18px;
+        font-size       : 18px;
+    
+    }
+    
+    .distribution_right h2 {
+        
+        font-size       : 42px;
+        line-height     : 135%;
+        
+    }
+
+    .distribution_right p {
+
+        padding-top     : 20px;
+        padding-bottom  : 30px;
+        width           : auto;
+        
+    }
+
+    /* Plan part css */
+
+    #plan {
+
+        padding         : 0;
+
+    }
+
+    .plan_heading h2 {
+     
+        font-size       : 53px;
+      
+    }
+
+    .plan_box {
+       
+        padding         : 48px 20px;
+       
+    }
+
+    .plan_duration {
+      
+        padding     : 25px 0;
+
+    }
+
+    .plan_spc_inner_first p {
+       
+        font-size       : 18px;
+       
+    }
+
+    .plan_spc_inner_last p {
+
+        font-size       : 18px;
+
+    }
+
+    #build_plan {
+
+        margin      : 0;
+
+    }
+
+    .build_plan_heading h2 {
+
+       padding-top      : 0;
+       padding-bottom   : 30px;
+       
+    }
+
+    .build_box_text p {
+
+        padding-top     : 10px;
+        width           : auto;
+        font-size       : 17px;
+        
+    }
+
+    #trial {
+
+        padding: 70px 0;
+
+    }
+
+    .input_trial input {
+       
+        width: 400px;
+       
+    }
+
+    .input_trial button {
+
+        margin-left: 20px;
+        padding: 20px 48px;
+       position     : absolute;
+    
+    }
+
+
+    footer {
+
+      padding: 60px 0;
+
+    }
+
+    .footer_left p {
+
+        padding-top: 30px;
+        padding-right: 10px;
+      
+    }
+
+
+
+
+
+
+
+
+
+}
+
+
+
+/* Md device */
+
+@media (min-width:768px) and (max-width:991.99px){
+
+    
+      /* Navbar css Part */
+
+
+      .navbar-toggler:focus {
+       
+        box-shadow              :none;
+
+    }
+
+    .navbar-toggler i{
+
+        color                   : var(--main_color);
+
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+       
+        text-align              : center;
+
+    }
+
+    .nav_btn{
+       
+        text-align              : center;
+
+    }
+
+    /*  Banner part css */
+
+    .banner_content {
+
+        padding-top             : 50px;
+
+    }
+
+    .banner_left h1 {
+        
+        padding-top     : 0;
+       
+    }
+
+    .banner_right {
+
+        padding-bottom  : 40px;
+
+    }
+
+    /* wapkiu css part */
+
+    #wapkiu {
+
+        padding     :0;
+
+    }
+
+    /* Solution part css */
+
+    #solutions {
+
+        padding     : 50px 0;
+
+    }
+
+    .solition_heading_left h2 {
+
+        padding-bottom  : 20px;
+
+    }
+
+    .solition_heading_right p {
+
+        margin      : 20px 0;
+        
+    }
+
+    /* goals part css */
+
+    #goals {
+
+        padding     : 50px 0;
+
+    }
+
+    .goals_right h2 {
+        
+        margin-top      : 30px;
+    
+    }
+    
+    .goals_right p {
+        
+        padding     : 24px 0px;
+    
+    }
+
+    /* distribution part css */
+
+    .distribution_right h2 {
+
+       margin       : 20px 0;
+
+    }
+
+    .distribution_right p {
+        
+        width           : auto;
+        padding-top     : 10px;
+        padding-bottom  : 35px;
+      
+    }
+
+    /* plan css part */
+
+    #plan {
+
+        padding     : 0;
+        
+    }
+
+    .plan_duration {
+      
+        padding-bottom  : 0px;
+        
+    }
+
+    .plan_box {
+
+        margin-bottom   : 0;
+
+    }
+
+    .plan_box:hover {
+    
+        margin-top      : 80px;
+        margin-bottom   : 0;
+    }
+
+    .plan_spc_inner_first p {
+       
+        font-size       : 15px;
+     
+    }
+
+    .build_plan_heading h2 {
+
+        padding-top     : 0px;
+        padding-bottom  : 50px;
+        
+    }
+
+    .build_box_text p {
+
+        padding-top : 30px;
+        width       : auto;
+        font-family : var(--secondary_font);
+        
+    }
+
+    .build_social_icon {
+
+        margin-top      : 15px;
+        margin-bottom   : 25px;
+
+    }
+
+    /* Trial part css */
+
+    #trial {
+
+        padding     : 0;
+
+    }
+
+    .input_trial input {
+      
+        width       : 400px;
+        
+    }
+
+    /* footer part css */
+
+    footer {
+
+        padding-top     : 60px;
+        padding-bottom  : 50px;
+
+    }
+
+    .footer_left p {
+
+        padding-top     : 30px;
+        padding-right   : 50px;
+        padding-bottom  : 20px;
+      
+    }
+
+    .footer_Features h4 {
+
+        padding-bottom  : 20px;
+       
+    }
+
+    .footer_Features ul li {
+
+        padding: 5px 0;
+        
+    }
+
+    .footer_products h4 {
+
+        padding-bottom  : 20px;
+       
+    }
+
+    .footer_products ul li {
+
+        padding: 5px 0;
+
+    }
+
+
+
+}
+
+
+
+/* Sm device */
+
+@media (min-width:576px) and (max-width:767.99px){
+
+      /* Navbar css Part */
+
+
+      .navbar-toggler:focus {
+       
+        box-shadow              :none;
+
+    }
+
+    .navbar-toggler i{
+
+        color                   : var(--main_color);
+
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+       
+        text-align              : center;
+
+    }
+
+    .nav_btn{
+       
+        text-align              : center;
+
+    }
+
+    /*  Banner part css */
+
+    .banner_content {
+
+        padding-top             : 50px;
+
+    }
+
+    .banner_left h1 {
+
+        padding-top             : 0px;
+        width                   : auto;
+        font-size               : 46px;
+        line-height             : 60px;
+        text-align              : center;
+
+    }
+
+    .banner_left p {
+
+        margin-top              : 30px;
+        padding-left            : 15px;
+        font-size               : 18px;
+        line-height             : 190%;
+        border-left             : 4px solid #FFC556;
+
+    }
+
+    .banner_sing_up {
+        
+        margin-top              : 35px;
+        width                   : 500px;
+        margin-bottom           : 40px;
+
+    }
+
+    #banner_email_form {
+
+        width                       : 320px;
+    
+    }
+
+    .banner_sing_up button {
+    
+        right       : 15px;
+        top         : 20px;
+        bottom      : 20px;
+        padding     : 15px 40px;
+        font-size   : 18px;
+        
+    }
+
+    /* wapliu part css */
+
+    #wapkiu {
+        
+        padding                 : 0;
+
+    }
+    
+
+    .wapliu_icon{
+
+        text-align             : center;
+        margin                 : 20px 0;
+
+    }
+    
+    /* solutions part css*/
+
+    #solutions {
+
+        padding                 : 50px 0;
+
+    }
+
+    .solition_heading_left h2 {
+        
+        font-size               : 56px;
+        padding-bottom          : 40px;
+
+    }
+
+    .solition_heading_right p {
+
+        margin-top              : 22px;
+        margin-bottom           : 30px;
+
+    }
+
+    /*  Goals part css */
+
+    #goals {
+
+        padding                 : 50px 0;
+
+    }
+
+    .goals_right h2 {
+
+        font-size               : 44px;
+        margin-top              : 30px;
+
+    }
+
+    .goals_right p {
+
+        padding                 : 24px 5px;
+        
+    }
+
+
+
+    /*   distribution part */
+
+
+    .distribution_header {
+
+        margin                  : 10px 4px;
+        text-align              : center;
+
+    }
+
+    .distribution_header a {
+
+        padding                 : 10px 30px;
+      
+    }
+
+    .distribution_header a {
+     
+        font-size               : 18px;
+        
+    }
+
+    .distribution_left {
+
+        margin      : 20px;
+
+    }
+
+    .distribution_right h2 {
+       
+        font-size       : 45px;
+        line-height     : 130%;
+       
+    }
+
+    .distribution_right p {
+        
+        width           : auto;
+    
+    }
+
+    .distribution_right a {
+
+        margin-bottom   : 0;
+
+    }
+
+    /* plan part css */
+
+    #plan {
+
+        padding     : 50px  0 0 0;
+        
+    }
+
+    .plan_heading h2 {
+
+        font-size   : 45px;
+       
+    }
+
+    .plan_box {
+        
+        padding         : 30px;
+        margin-top      : 20px;
+        margin-bottom   : 20px;
+
+    }
+
+    .plan_duration {
+
+        padding-top     : 25px;
+        padding-bottom  : 55px;
+       
+    }
+
+    .plan_spc {
+       
+        padding-bottom  : 15px;
+
+    }
+
+    .plan_box:hover {
+
+        padding         : 30px;
+        margin-top      : 20px;
+        margin-bottom   : 20px;
+
+    }
+
+    /* build plan css part */
+
+    .build_plan_heading h2 {
+        
+        padding-top     : 0px;
+        padding-bottom  : 50px;
+        font-size       : 45px;
+       
+    }
+
+    .build_box_text p {
+
+        width       : auto;
+        
+    }
+
+    .build_social_icon {
+
+        margin-top      : 14px;
+        margin-bottom   : 35px;
+
+    }
+    
+    /* trial part css */
+
+    #trial {
+
+        padding     : 0;
+
+    }
+
+    .trial_heading h2 {
+       
+        font-size   : 45px;
+        
+    }
+    .input_trial{
+
+        text-align      : center;
+    }
+
+    .input_trial input {
+    
+        width           : auto;
+       
+    }
+
+    .input_trial button {
+
+        margin-left     : 20px;
+        margin-top      : 20px;
+        padding         : 15px 35px;
+
+    }
+
+    /* Footer part css */
+
+    footer {
+
+        padding-top     : 80px;
+        padding-bottom  : 50px;
+
+    }
+
+    .footer_left p {
+
+       margin-bottom    : 30px;
+       
+    }
+
+    .footer_Features h4 {
+
+        padding     : 15px 0;
+        font-size   : 20px;
+        
+    }
+
+    .footer_Features ul li a {
+       
+        font-size   : 18px;
+       
+    }
+
+    .footer_Features ul li {
+
+        padding     : 5px 0;
+
+    }
+
+    .footer_products h4 {
+
+        padding     : 15px 0;
+        font-size   : 20px;
+        
+    }
+    .footer_products ul li {
+
+        padding     : 5px 0;
+
+    }
+
+    .footer_products ul li a {
+       
+        font-size   : 18px;
+       
+    }
+
+    .all_rights_reserved a {
+       
+        font-size       : 13px;
+        
+    }
+
+    .footer_privacy a {
+     
+        font-size       : 13px;
+      
+    }
+
+    .footer_terms a {
+    
+        font-size       : 13px;
+        
+    }
+
+}
+
+
+
+
+/* Xs device */
+
+@media(max-width:575.99px){
+
+
+    /* Navbar css Part */
+
+
+    .navbar-toggler:focus {
+       
+        box-shadow              :none;
+
+    }
+
+    .navbar-toggler i{
+
+        color                   : var(--main_color);
+
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+       
+        text-align              : center;
+
+    }
+
+    .nav_btn{
+       
+        text-align              : center;
+
+    }
+
+    /*  Banner part css */
+
+    .banner_content {
+
+        padding-top             : 50px;
+
+    }
+
+    .banner_left h1 {
+
+        padding-top             : 0px;
+        width                   : auto;
+        font-size               : 40px;
+        line-height             : 55px;
+        text-align              : center;
+
+    }
+
+    .banner_left p {
+
+        margin-top              : 30px;
+        padding-left            : 15px;
+        font-size               : 15px;
+        line-height             : 190%;
+        border-left             : 4px solid #FFC556;
+
+    }
+
+    .banner_sing_up {
+        
+        margin-top              : 35px;
+        width                   : 308px;
+        margin-bottom           : 40px;
+
+    }
+
+    #banner_email_form {
+
+        width                       : 190px;
+    
+    }
+
+
+    .banner_sing_up button {
+    
+        right: 15px;
+        top: 28px;
+        bottom: 28px;
+        padding: 10px 25px;
+        font-size: 15px;
+        
+    }
+
+    /* .banner_right {
+
+        padding                 : 50px 0;
+
+    } */
+
+
+    /* wapliu part css */
+
+    #wapkiu {
+        
+        padding                 : 0;
+
+    }
+    
+
+    .wapliu_icon{
+
+        text-align             : center;
+        margin                 : 20px 0;
+
+    }
+    
+    /* solutions part css*/
+
+    #solutions {
+
+        padding                 : 50px 0;
+
+    }
+
+    .solition_heading_left h2 {
+        
+        font-size               : 50px;
+        padding-bottom          : 40px;
+
+
+    }
+
+    .solition_heading_right p {
+
+        margin-top              : 22px;
+        margin-bottom           : 30px;
+
+    }
+
+    .box_heading h3 {
+
+        font-size               : 21px;
+        line-height             : 30px;
+
+    }
+
+    /*  Goals part css */
+
+    #goals {
+
+        padding                 : 50px 0;
+
+    }
+
+    .goals_right h2 {
+
+        font-size               : 38px;
+        margin-top  : 30px;
+
+    }
+
+    .goals_right p {
+
+        padding                 : 24px 5px;
+        
+    }
+
+    .goals_right_btn button {
+
+        padding                 : 15px 40px;
+        
+    }
+
+
+    /*   distribution part */
+
+
+    .distribution_header {
+
+        margin                  : 10px 4px;
+        text-align              : center;
+
+    }
+
+    .distribution_header a {
+
+        padding                 : 10px 30px;
+      
+    }
+
+    .distribution_left {
+
+        margin      : 20px;
+
+    }
+
+    .distribution_right h2 {
+       
+        font-size       : 33px;
+        line-height     : 130%;
+       
+    }
+
+    .distribution_right p {
+
+        padding     : 30px 5px;
+        width       : auto;
+        font-size   : 17px;
+    
+    }
+
+    .distribution_right a {
+
+        padding         : 12px 30px;
+        font-size       : 17px;
+        margin-bottom   : 0;
+
+    }
+
+    /* plan part css */
+
+    #plan {
+
+        padding     : 50px  0 0 0;
+        
+    }
+
+    .plan_heading h2 {
+
+        font-size   : 39px;
+        line-height : 130%;
+       
+    }
+
+    .plan_box {
+        
+        padding         : 30px;
+        margin-top      : 20px;
+        margin-bottom   : 20px;
+
+    }
+
+    .plan_spc_inner_first p {
+
+        font-size       : 15px;
+     
+    }
+
+    .plan_duration {
+
+        padding-top     : 25px;
+        padding-bottom  : 55px;
+       
+    }
+
+    .plan_spc {
+       
+        padding-bottom  : 15px;
+
+    }
+
+    .plan_spc_inner_last p {
+     
+        font-size       : 17px;
+        
+    }
+
+    .plan_box_content h4 {
+
+        padding-bottom  : 30px;
+        font-size       : 30px;
+        
+    }
+
+    .plan_spc_btn button {
+
+        padding     : 15px 30px;
+        font-size   : 18px;
+
+    }
+
+    .plan_box:hover {
+
+        padding         : 30px;
+        margin-top      : 20px;
+        margin-bottom   : 20px;
+
+
+    }
+
+    /* build plan css part */
+
+    .build_plan_heading h2 {
+        
+        padding-top     : 0px;
+        padding-bottom  : 50px;
+        font-size       : 39px;
+        line-height     : 130%;
+       
+    }
+
+    .build_box_text p {
+
+        width       : auto;
+        font-size   : 18px;
+        line-height : 160%;
+        
+    }
+
+    .build_social_icon {
+
+        margin-top      : 14px;
+        margin-bottom   : 35px;
+
+    }
+    
+    /* trial part css */
+
+    #trial {
+
+        padding     : 0;
+
+    }
+
+    .trial_heading h2 {
+       
+        font-size   : 38px;
+        line-height : 130%;
+        
+    }
+
+    .trial_wrapper p:nth-child(2) {
+
+        border-left     : 2px solid var(--secondary_color);
+        border-right    : 2px solid var(--secondary_color);
+
+    }
+
+    .trial_wrapper {
+       
+        padding-top     : 20px;
+        padding-bottom  : 30px;
+
+    }
+
+    .trial_wrapper p {
+      
+        font-size       : 13px;
+        padding         : 0 5px;
+
+    }
+
+    .input_trial{
+
+        text-align      : center;
+    }
+
+    .input_trial input {
+    
+        width           : auto;
+       
+    }
+
+    .input_trial button {
+
+        margin-left     : 0;
+        font-size       : 15px;
+        margin-top      : 20px;
+        padding         : 15px 35px;
+
+    }
+
+    /* Footer part css */
+
+    footer {
+
+        padding-top     : 80px;
+        padding-bottom  : 50px;
+
+    }
+
+    .footer_left p {
+
+        padding-top     : 25px;
+        padding-right   : 0;
+        font-size       : 17px;
+        line-height     : 160%;
+        
+    }
+
+    .footer_Features h4 {
+
+        padding     : 15px 0;
+        
+    }
+
+    .footer_Features ul li {
+
+        padding     : 5px 0;
+
+    }
+
+    .footer_products h4 {
+
+        padding     : 15px 0;
+        
+    }
+    .footer_products ul li {
+
+        padding     : 5px 0;
+
+    }
+
+    .all_rights_reserved a {
+       
+        font-size       : 17px;
+        
+    }
+
+
+
+
+
+
+
+}
+
+
+
